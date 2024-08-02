@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UAS IS5 10522154</string>
+    <string name="title_home">Home</string>
+    <string name="title_create">Create</string>
+    <string name="item"></string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="usia">Usia</string>
+    <string name="jabatan">Jabatan</string>
+    <string name="keahlian">Keahlian</string>
+    <string name="email">Email</string>
+    <string name="create_data"></string>
+    <string name="save">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

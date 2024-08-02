@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.example.uasis510522154.detail.DetailFragment">
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama Lengkap" />
+
+    <TextView
+        android:id="@+id/textViewJabatan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jabatan" />
+
+    <TextView
+        android:id="@+id/textViewUsia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Usia" />
+
+    <TextView
+        android:id="@+id/textViewKeahlian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Keahlian" />
+
+    <TextView
+        android:id="@+id/textViewEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email" />
+
+</LinearLayout>
